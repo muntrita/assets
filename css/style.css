@@ -20,7 +20,8 @@ body {
   padding-block: 77px;
   margin-block: 20px;
   margin-inline: auto;
-  line-height: 27px;
+  line-height: 30px;
+  font-size: x-large;
 }
 
 /* MAIN */
